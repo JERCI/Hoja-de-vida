@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(https://fondosmil.com/fondo/48686.jpg);
+    background-size: 100% 100%;
+    
+}
+
+#cuerpo{
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    list-style: none;
+}
+
+#contenedor{
+    background-color: #17a398;
+    text-align: center;
+    color: #CBBEB3;
+    font-size: 23px;
+    margin: 2px;
+    margin-bottom: 0%;
+}
+
+#contenedor p{
+    color: black;
+    font-family: serif;
+}
+
+#foto{
+    border-radius: 150px;
+    width: 15%;
+    height: 20%;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    color: #020300;
+    background-color: #17a398;
+    margin: 2px;
+}
+#habilidades{
+    display: flex;
+    font-family: serif;
+    border-bottom: 2px solid black ;
+}
+#tecnicas{
+    font-size: 20px;
+    background-color: #CBBEB3;
+    margin: 2px;
+    width: 50%;
+}
+
+h3 {
+    text-align: center;
+    color: #69626D;
+}
+
+h6 {
+    color: #025750;
+}
+
+#profesionales{
+    font-size: 20px;
+    background-color: #CBBEB3;
+    margin: 2px;
+    width: 50%;
+}
+
+#aboutme {
+    display: flex;
+    font-size: 20px;
+}
+
+#datos {
+    width: 50%;
+    background-color: #CBBEB3;
+    margin: 2px;
+}
+
+#intereses {
+    width: 50%;
+    background-color: #CBBEB3;
+    margin: 2px;
+}
+
+#estudio {
+    display: flex;
+    font-size: 15px;
+    margin: 2px;
+    background-color: #CBBEB3;
+}
+
+#bachillerato {
+    justify-content: left;
+    background-color: #CBBEB3;
+    text-align: center;
+    margin-right: 7px;
+    width: 20%;
+}
+
+#realidad {
+    justify-content: left;
+    background-color: #CBBEB3;
+    text-align: center;
+    margin-right: 7px;
+    width: 20%;
+}
+
+#ingles {
+    justify-content: left;
+    background-color: #CBBEB3;
+    text-align: center;
+    margin-right: 7px;
+    width: 20%;
+}
+
+#mintic {
+    justify-content: left;
+    background-color: #CBBEB3;
+    text-align: center;
+    margin-right: 7px;
+    width: 20%;
+}
+
+#eafit {
+    justify-content: left;
+    background-color: #CBBEB3;
+    text-align: center;
+    margin-right: 7px;
+    width: 20%;
+}
+
+.skill-description {
+    display: flex;
+    justify-content: space-between;
+}
+.progress {
+    height: 10px;
+    background-color: #FFF;
+}
+.progress.percentage {
+    background-color: #17a398;
+}
+
+#footer{
+    background-color: #17a398;
+    align-items: center;
+    text-align: center;
+}
+
+#footer h3 {
+    color: #020300;
+    font-size: 20px;
+}
